@@ -12,12 +12,14 @@
 
 ### 💡 About Me
 
-- 🎓 CS Student at **Rowan University** (Class of 2027)
-- 🔭 Currently building a **Financial Portfolio Tracker** with ML forecasting
-- 🌱 Learning **Time Series Analysis & ML Deployment**
-- 💼 Looking for **Summer 2026 Data Science Internships**
-- ⚡ I enjoy building real applications, not just tutorials
-- 📫 Reach me at **ankitkailey400@gmail.com**
+```yaml
+name: Ankit Kailey
+university: Rowan University (Class of 2027)
+location: New Jersey, USA
+current_focus: Financial Portfolio Tracker with ML
+seeking: Summer 2026 Data Science Internship
+fun_fact: I build real apps, not just follow tutorials
+```
 
 <br clear="right"/>
 
@@ -27,34 +29,50 @@
 
 <div align="center">
 
+#### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Backend & Databases
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+#### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+#### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 </div>
 
 ---
 
-### 📂 Projects
+### 📂 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔗 [**Student Management REST API**](https://github.com/ankitkailey18/student-crud-api) | Full-stack API with JWT auth, role-based access, email verification, rate limiting | FastAPI · PostgreSQL · JWT |
-| 📊 [**Global Tech Talent Analytics**](https://github.com/ankitkailey18/global-tech-talent-analytics) | Power BI dashboard analyzing 47K+ job postings across industries | Power BI · DAX · Excel |
-| 📈 [**Commodity Market Analyzer**](https://github.com/ankitkailey18/agriculture_market_analyzer.py) | Price trend analysis and forecasting for agricultural commodities | Python · Pandas · Matplotlib |
+<div align="center">
+
+[![Student API Card](https://github-readme-stats.vercel.app/api/pin/?username=ankitkailey18&repo=student-crud-api&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ankitkailey18/student-crud-api)
+[![Tech Talent Card](https://github-readme-stats.vercel.app/api/pin/?username=ankitkailey18&repo=global-tech-talent-analytics&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ankitkailey18/global-tech-talent-analytics)
+
+</div>
+
+| Project | What I Built | Impact |
+|---------|-------------|--------|
+| 🔗 **Student Management REST API** | Full auth system with JWT, RBAC, email verification, rate limiting | Deployed live on Render — friend building frontend for it |
+| 📊 **Global Tech Talent Analytics** | Power BI dashboard with DAX measures across 47K+ records | Identified salary trends across 15+ countries |
+| 📈 **Commodity Market Analyzer** | Price forecasting pipeline with statistical modeling | Predicted price movements for 5 agricultural commodities |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
@@ -62,33 +80,21 @@
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitkailey18&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitkailey18&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitkailey18&theme=tokyonight&utcOffset=-5" width="32%"/>
+<img src="https://streak-stats.demolab.com?user=ankitkailey18&theme=tokyonight&hide_border=true&background=0D1117" width="55%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ankitkailey18&theme=tokyonight&hide_border=true&background=1A1B27" width="60%"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkailey18&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117)
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 💬 Random Dev Quote
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ankitkailey18&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15" width="100%"/>
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkailey18&theme=tokyo-night&hide_border=true&area=true)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
