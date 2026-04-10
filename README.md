@@ -1,12 +1,14 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ankit+Kailey+%F0%9F%91%8B;CS+Student+%40+Rowan+University;Data+Science+%7C+Backend+Dev+%7C+ML;Always+learning%2C+always+building+%F0%9F%9A%80)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ankit%20Kailey&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=CS%20Student%20%7C%20Data%20Science%20%7C%20Backend%20Dev%20%7C%20ML&descAlignY=52&descSize=18" width="100%"/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+real+apps%2C+not+tutorials;Data+pipelines+%7C+REST+APIs+%7C+ML+models;Always+learning%2C+always+shipping+%F0%9F%9A%80)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF0YnUxZGt5dWFtOTNpbm55OWpjZWxydTVoeHB0cDFqZjR5ZG5iZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 💡 About Me
 
@@ -15,6 +17,7 @@
 - 🌱 Learning **Time Series Analysis & ML Deployment**
 - 💼 Looking for **Summer 2026 Data Science Internships**
 - ⚡ I enjoy building real applications, not just tutorials
+- 📫 Reach me at **ankitkailey400@gmail.com**
 
 <br clear="right"/>
 
@@ -57,15 +60,15 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitkailey18&theme=tokyonight" width="100%"/>
 
+<br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitkailey18&theme=tokyonight" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitkailey18&theme=tokyonight" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitkailey18&theme=tokyonight&utcOffset=-5" width="32%"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitkailey18&theme=tokyonight&hide_border=true&background=1A1B27)
+<img src="https://streak-stats.demolab.com?user=ankitkailey18&theme=tokyonight&hide_border=true&background=1A1B27" width="60%"/>
 
 </div>
 
@@ -75,7 +78,17 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ankitkailey18&theme=tokyonight&no-frame=true&row=1&column=6)
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ankitkailey18&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15" width="100%"/>
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkailey18&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
