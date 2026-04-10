@@ -32,8 +32,10 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </div>
 
@@ -53,21 +55,27 @@
 
 <div align="center">
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitkailey18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitkailey18&theme=tokyonight" width="100%"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitkailey18&theme=tokyonight&hide_border=true&background=0D1117)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitkailey18&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitkailey18&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitkailey18&theme=tokyonight&utcOffset=-5" width="32%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkailey18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitkailey18&theme=tokyonight&hide_border=true&background=1A1B27)
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+### 🏆 GitHub Trophies
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ankitkailey18/ankitkailey18/output/github-snake-dark.svg)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ankitkailey18&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -80,5 +88,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitkailey400@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ankitkailey18&color=58A6FF&style=flat-square)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
