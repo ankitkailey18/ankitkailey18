@@ -1,48 +1,78 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Ankit+Kailey+%F0%9F%91%8B;Data+Science+%7C+Backend+Dev+%7C+ML)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:58A6FF&height=150&section=header&text=Ankit%20Kailey&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
 
 </div>
 
+<br/>
+
+<div>
+
 <img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF0YnUxZGt5dWFtOTNpbm55OWpjZWxydTVoeHB0cDFqZjR5ZG5iZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-```yaml
-name: Ankit Kailey
-university: Rowan University (2027)
-location: New Jersey
-seeking: Summer 2026 DS Internship
-stack: [Python, FastAPI, PostgreSQL,
-        Pandas, Scikit-Learn, Power BI]
+#### `> whoami`
+
 ```
+Ankit Kailey
+CS @ Rowan University '27
+New Jersey, USA
+```
+
+#### `> cat interests.txt`
+
+```
+Data Science | Backend Dev | Machine Learning
+```
+
+#### `> cat status.txt`
+
+```
+🔍 Looking for Summer 2026 DS Internship
+🔨 Building a Financial Portfolio Tracker
+```
+
+</div>
 
 <br clear="right"/>
 
+---
+
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,postgres,git&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=sklearn,anaconda,powershell,md,github&theme=dark" />
+
+</div>
 
 ---
 
-🔗 [**Student Management REST API**](https://github.com/ankitkailey18/student-crud-api) · FastAPI + PostgreSQL · JWT auth, RBAC, email verification, rate limiting
+<div align="center">
 
-📊 [**Global Tech Talent Analytics**](https://github.com/ankitkailey18/global-tech-talent-analytics) · Power BI · 47K+ job postings across 15+ countries
+[**Student Management REST API**](https://github.com/ankitkailey18/student-crud-api) · `FastAPI` `PostgreSQL` `JWT` `RBAC`
+<br/>
+[**Global Tech Talent Analytics**](https://github.com/ankitkailey18/global-tech-talent-analytics) · `Power BI` `DAX` `47K+ records`
+<br/>
+[**Commodity Market Analyzer**](https://github.com/ankitkailey18/agriculture-market-analyzer) · `Python` `Pandas` `Forecasting`
 
-📈 [**Commodity Market Analyzer**](https://github.com/ankitkailey18/agriculture-market-analyzer) · Python + Pandas · Price forecasting for agricultural commodities
+</div>
 
 ---
 
-<img src="https://streak-stats.demolab.com?user=ankitkailey18&theme=tokyonight&hide_border=true&background=0D1117&short_numbers=true" width="45%"/>
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=github&logoColor=white)](https://ankitkailey18.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-kailey)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ankitkailey400@gmail.com)
+<img src="https://streak-stats.demolab.com?user=ankitkailey18&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=999&currStreakNum=fff&sideNums=fff&dates=555" width="48%"/>
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/portfolio-000?style=flat-square&logo=github&logoColor=white)](https://ankitkailey18.github.io)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-kailey)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ankitkailey400@gmail.com)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:58A6FF&height=100&section=footer" width="100%"/>
 
 </div>
