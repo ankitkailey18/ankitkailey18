@@ -58,8 +58,10 @@ fun_fact: I build real apps, not just follow tutorials
 ### 📂 Featured Projects
 
 <div align="center">
+
 [![Student API Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=ankitkailey18&repo=student-crud-api&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ankitkailey18/student-crud-api)
 [![Tech Talent Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=ankitkailey18&repo=global-tech-talent-analytics&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ankitkailey18/global-tech-talent-analytics)
+
 </div>
 
 | Project | What I Built | Impact |
