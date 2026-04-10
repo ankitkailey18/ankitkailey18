@@ -1,22 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ankit%20Kailey&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=CS%20Student%20%7C%20Data%20Science%20%7C%20Backend%20Dev%20%7C%20ML&descAlignY=52&descSize=18" width="100%"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Ankit+Kailey+%F0%9F%91%8B;Data+Science+%7C+Backend+Dev+%7C+ML)
 
 </div>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF0YnUxZGt5dWFtOTNpbm55OWpjZWxydTVoeHB0cDFqZjR5ZG5iZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF0YnUxZGt5dWFtOTNpbm55OWpjZWxydTVoeHB0cDFqZjR5ZG5iZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
 name: Ankit Kailey
-university: Rowan University (Class of 2027)
-location: New Jersey, USA
-seeking: Summer 2026 Data Science Internship
-focus: [Data Science, Backend Dev, ML]
+university: Rowan University (2027)
+location: New Jersey
+seeking: Summer 2026 DS Internship
+stack: [Python, FastAPI, PostgreSQL,
+        Pandas, Scikit-Learn, Power BI]
 ```
 
 <br clear="right"/>
-
----
 
 <div align="center">
 
@@ -30,26 +29,20 @@ focus: [Data Science, Backend Dev, ML]
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</div>
+---
+
+🔗 [**Student Management REST API**](https://github.com/ankitkailey18/student-crud-api) · FastAPI + PostgreSQL · JWT auth, RBAC, email verification, rate limiting
+
+📊 [**Global Tech Talent Analytics**](https://github.com/ankitkailey18/global-tech-talent-analytics) · Power BI · 47K+ job postings across 15+ countries
+
+📈 [**Commodity Market Analyzer**](https://github.com/ankitkailey18/agriculture-market-analyzer) · Python + Pandas · Price forecasting for agricultural commodities
 
 ---
 
-| Project | Description |
-|---------|------------|
-| 🔗 [**Student Management REST API**](https://github.com/ankitkailey18/student-crud-api) | FastAPI + PostgreSQL with JWT auth, RBAC, email verification, rate limiting |
-| 📊 [**Global Tech Talent Analytics**](https://github.com/ankitkailey18/global-tech-talent-analytics) | Power BI dashboard analyzing 47K+ job postings across 15+ countries |
-| 📈 [**Commodity Market Analyzer**](https://github.com/ankitkailey18/agriculture-market-analyzer) | Price trend analysis and forecasting for agricultural commodities |
+<img src="https://streak-stats.demolab.com?user=ankitkailey18&theme=tokyonight&hide_border=true&background=0D1117&short_numbers=true" width="45%"/>
 
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ankitkailey18&theme=tokyonight&hide_border=true&background=0D1117" width="50%"/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://ankitkailey18.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-kailey)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitkailey400@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=github&logoColor=white)](https://ankitkailey18.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-kailey)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ankitkailey400@gmail.com)
 
 </div>
