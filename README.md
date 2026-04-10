@@ -12,7 +12,9 @@ I'm a CS student at Rowan University building my way through the world of data s
 
 </div>
 
----
+<br/>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🧰 Languages and Tools
 
@@ -27,9 +29,11 @@ I'm a CS student at Rowan University building my way through the world of data s
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"/>
 
-<br/><br/>
+<br/><br clear="right"/>
 
 ---
+
+<img align="left" alt="Data" width="300" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 ### 📂 What I've Built
 
@@ -39,35 +43,22 @@ Full-stack REST API from scratch — FastAPI, PostgreSQL, JWT auth with access +
 
 📊 **[Global Tech Talent Analytics](https://github.com/ankitkailey18/global-tech-talent-analytics)**
 <br/>
-Power BI dashboard dissecting 47K+ job postings across 15+ countries. Built custom DAX measures to surface salary trends, skill demand gaps, and hiring patterns.
+Power BI dashboard dissecting 47K+ job postings across 15+ countries. Built custom DAX measures to surface salary trends and hiring patterns.
 
 📈 **[Commodity Market Analyzer](https://github.com/ankitkailey18/agriculture-market-analyzer)**
 <br/>
-Python pipeline pulling agricultural commodity data, running statistical analysis, and forecasting price movements using time series techniques.
+Python pipeline pulling agricultural commodity data, running statistical analysis, and forecasting price movements.
 
 🚧 **Financial Portfolio Tracker** *(coming soon)*
 <br/>
-ML-powered stock & crypto analytics — time series forecasting, risk metrics, portfolio optimization. FastAPI backend + Streamlit dashboard.
+ML-powered stock & crypto analytics with time series forecasting, risk metrics, and a Streamlit dashboard.
+
+<br clear="left"/>
 
 ---
 
-### 📊 Stats
-
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ankitkailey18&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
-
-<details>
-<summary>📈 More Stats</summary>
-<br/>
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitkailey18&theme=github_dark" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitkailey18&theme=github_dark" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitkailey18&theme=github_dark&utcOffset=-5" width="48%"/>
-
-</div>
-</details>
